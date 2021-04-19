@@ -8,6 +8,8 @@ output: github_document
 
 ### enter line on web
 
+### enter line in rstudio afterwards
+
 ```{r, echo = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
